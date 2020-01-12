@@ -1,0 +1,11 @@
+{
+  "name": "reinput",
+  "version": "0.0.1",
+  "description": "Create new functionalities for existing input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Hage",
+  "license": "ISC"
+}
